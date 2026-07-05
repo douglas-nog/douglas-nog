@@ -51,12 +51,10 @@ Engenheiro de Dados com mais de 4 anos de experiência em arquiteturas event-dri
 ![MWAA](https://img.shields.io/badge/MWAA_(Airflow)-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Keyspaces](https://img.shields.io/badge/Keyspaces-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![ER/Studio](https://img.shields.io/badge/ER%2FStudio-4B4B4B?style=for-the-badge)
-![Oracle Data Integrator](https://img.shields.io/badge/Oracle_Data_Integrator-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Plataformas & Arquitetura**
@@ -79,10 +77,5 @@ Engenheiro de Dados com mais de 4 anos de experiência em arquiteturas event-dri
 ### 📌 Projetos em destaque
 
 - **[databricks-lakehouse](#)** — pipeline medallion completo (bronze/silver/gold) no Azure Databricks, com Auto Loader, transformações em streaming com lógica de quarentena e agregação batch via MERGE INTO.
-- **aws-lakehouse** — arquitetura event-driven com Airflow, AWS Glue, Apache Iceberg e lake em quatro zonas, sob modelo de infraestrutura efêmera.
 
----
 
-### 📊 Atividade
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douglas-nog&show_icons=true&theme=default&hide_title=true)
