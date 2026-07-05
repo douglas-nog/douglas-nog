@@ -1,8 +1,10 @@
 # Olá, sou o Douglas 👋
 
-Data Engineer com experiência em arquiteturas de dados em nuvem, especializado em AWS. Atuação com pipelines em larga escala, arquitetura medallion/Data Mesh, orquestração de dados e infraestrutura como código.
+Engenheiro de Dados com mais de 4 anos de experiência em arquiteturas event-driven na AWS, pipelines distribuídos com Python, PySpark e SQL, e modelagem em Data Mesh. 4x AWS Certified. Em preparação para a certificação Databricks Certified Data Engineer Associate.
 
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/douglas-nogueira-/)
+- 🔭 Estudo aprofundado de Apache Spark, Delta Lake e arquiteturas Lakehouse
+- 🌱 Construção de projetos de portfólio em Databricks (medallion completo) e AWS (arquitetura event-driven com Iceberg)
+- 📫 Contato: [LinkedIn](#) · [Portfólio](#)
 
 ---
 
@@ -33,31 +35,46 @@ Data Engineer com experiência em arquiteturas de dados em nuvem, especializado 
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Stack Tecnológica
 
-**Cloud & Nuvem**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Processamento & Dados**
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-3776AB?style=for-the-badge&logo=apache&logoColor=white)
-
-**Linguagens**
+**Linguagens & Ferramentas**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Infra & DevOps**
-
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Step Functions](https://img.shields.io/badge/Step_Functions-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![SNS](https://img.shields.io/badge/SNS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![SQS](https://img.shields.io/badge/SQS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![MWAA](https://img.shields.io/badge/MWAA_(Airflow)-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Keyspaces](https://img.shields.io/badge/Keyspaces-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![ER/Studio](https://img.shields.io/badge/ER%2FStudio-4B4B4B?style=for-the-badge)
+![Oracle Data Integrator](https://img.shields.io/badge/Oracle_Data_Integrator-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Plataformas & Arquitetura**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Data Mesh](https://img.shields.io/badge/Data_Mesh-4B4B4B?style=for-the-badge)
+![Data Lake](https://img.shields.io/badge/Data_Lake-4B4B4B?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-4B4B4B?style=for-the-badge)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-4B4B4B?style=for-the-badge)
+![Data-Aware Orchestration](https://img.shields.io/badge/Data--Aware_Orchestration-4B4B4B?style=for-the-badge)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-4B4B4B?style=for-the-badge)
+![Modelagem Dimensional](https://img.shields.io/badge/Modelagem_Dimensional-4B4B4B?style=for-the-badge)
+![IaC](https://img.shields.io/badge/Infraestrutura_como_C%C3%B3digo-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ---
 
@@ -65,3 +82,9 @@ Data Engineer com experiência em arquiteturas de dados em nuvem, especializado 
 
 - **[databricks-lakehouse](#)** — pipeline medallion completo (bronze/silver/gold) no Azure Databricks, com Auto Loader, transformações em streaming com lógica de quarentena e agregação batch via MERGE INTO.
 - **aws-lakehouse** — arquitetura event-driven com Airflow, AWS Glue, Apache Iceberg e lake em quatro zonas, sob modelo de infraestrutura efêmera.
+
+---
+
+### 📊 Atividade
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douglas-nog&show_icons=true&theme=default&hide_title=true)
