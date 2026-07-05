@@ -1,6 +1,6 @@
 # Olá, sou o Douglas 👋
 
-Data Engineer com experiência em arquiteturas de dados em nuvem, especializado em AWS. Atuação com pipelines em larga escala, arquitetura medallion/Data Mesh, orquestração de dados e infraestrutura como código. Em preparação para a certificação Databricks Certified Data Engineer Associate.
+Data Engineer com experiência em arquiteturas de dados em nuvem, especializado em AWS. Atuação com pipelines em larga escala, arquitetura medallion/Data Mesh, orquestração de dados e infraestrutura como código.
 
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/douglas-nogueira-/)
 
