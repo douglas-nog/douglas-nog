@@ -1,10 +1,8 @@
 # Olá, sou o Douglas 👋
 
-Engenheiro de Dados com mais de 4 anos de experiência em arquiteturas event-driven na AWS, pipelines distribuídos com Python, PySpark e SQL, e modelagem em Data Mesh. 4x AWS Certified. Em preparação para a certificação Databricks Certified Data Engineer Associate.
+Engenheiro de Dados com mais de 4 anos de experiência em arquiteturas event-driven na AWS, pipelines distribuídos com Python, PySpark e SQL, e modelagem em Data Mesh. 4x AWS Certified. 
 
-- 🔭 Estudo aprofundado de Apache Spark, Delta Lake e arquiteturas Lakehouse
-- 🌱 Construção de projetos de portfólio em Databricks (medallion completo) e AWS (arquitetura event-driven com Iceberg)
-- 📫 Contato: [LinkedIn](#) · [Portfólio](#)
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/notifications/?filter=all)
 
 ---
 
