@@ -65,9 +65,3 @@ Data Engineer com experiência em arquiteturas de dados em nuvem, especializado 
 
 - **[databricks-lakehouse](#)** — pipeline medallion completo (bronze/silver/gold) no Azure Databricks, com Auto Loader, transformações em streaming com lógica de quarentena e agregação batch via MERGE INTO.
 - **aws-lakehouse** — arquitetura event-driven com Airflow, AWS Glue, Apache Iceberg e lake em quatro zonas, sob modelo de infraestrutura efêmera.
-
----
-
-### 📊 Atividade
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=douglas-nog&show_icons=true&theme=default&hide_title=true)
