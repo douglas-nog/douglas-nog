@@ -29,8 +29,6 @@ Engenheiro de Dados com mais de 4 anos de experiência em arquiteturas event-dri
   </tr>
 </table>
 
-> Em andamento: Databricks Certified Data Engineer Associate
-
 ---
 
 ### 🧰 Stack Tecnológica
